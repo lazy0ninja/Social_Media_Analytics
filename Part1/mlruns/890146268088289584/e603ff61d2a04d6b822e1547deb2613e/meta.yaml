@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/csg20/OneDrive/Desktop/Social_Media_Analytics/Part1/mlruns/890146268088289584/e603ff61d2a04d6b822e1547deb2613e/artifacts
+end_time: 1710919046674
+entry_point_name: ''
+experiment_id: '890146268088289584'
+lifecycle_stage: active
+run_id: e603ff61d2a04d6b822e1547deb2613e
+run_name: Logistic Regression
+run_uuid: e603ff61d2a04d6b822e1547deb2613e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710919046541
+status: 3
+tags: []
+user_id: csg20

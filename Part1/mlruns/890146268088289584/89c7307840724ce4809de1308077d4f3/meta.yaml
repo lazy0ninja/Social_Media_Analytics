@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/csg20/OneDrive/Desktop/Social_Media_Analytics/Part1/mlruns/890146268088289584/89c7307840724ce4809de1308077d4f3/artifacts
+end_time: 1710918841185
+entry_point_name: ''
+experiment_id: '890146268088289584'
+lifecycle_stage: active
+run_id: 89c7307840724ce4809de1308077d4f3
+run_name: Gradient Boosting Classifier
+run_uuid: 89c7307840724ce4809de1308077d4f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710918840877
+status: 3
+tags: []
+user_id: csg20

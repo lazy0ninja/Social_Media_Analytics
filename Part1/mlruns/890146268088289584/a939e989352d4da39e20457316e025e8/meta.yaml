@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/csg20/OneDrive/Desktop/Social_Media_Analytics/Part1/mlruns/890146268088289584/a939e989352d4da39e20457316e025e8/artifacts
+end_time: 1710918833727
+entry_point_name: ''
+experiment_id: '890146268088289584'
+lifecycle_stage: active
+run_id: a939e989352d4da39e20457316e025e8
+run_name: Extra Trees Classifier
+run_uuid: a939e989352d4da39e20457316e025e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710918833595
+status: 3
+tags: []
+user_id: csg20
