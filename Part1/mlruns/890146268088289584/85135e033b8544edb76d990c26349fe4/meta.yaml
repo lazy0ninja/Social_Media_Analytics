@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/csg20/OneDrive/Desktop/Social_Media_Analytics/Part1/mlruns/890146268088289584/85135e033b8544edb76d990c26349fe4/artifacts
+end_time: 1710914584772
+entry_point_name: ''
+experiment_id: '890146268088289584'
+lifecycle_stage: active
+run_id: 85135e033b8544edb76d990c26349fe4
+run_name: Stacking Classifier
+run_uuid: 85135e033b8544edb76d990c26349fe4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710914584370
+status: 3
+tags: []
+user_id: csg20

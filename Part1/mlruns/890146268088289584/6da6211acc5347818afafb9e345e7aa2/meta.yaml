@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/csg20/OneDrive/Desktop/Social_Media_Analytics/Part1/mlruns/890146268088289584/6da6211acc5347818afafb9e345e7aa2/artifacts
+end_time: 1710912945384
+entry_point_name: ''
+experiment_id: '890146268088289584'
+lifecycle_stage: active
+run_id: 6da6211acc5347818afafb9e345e7aa2
+run_name: Voting Classifier
+run_uuid: 6da6211acc5347818afafb9e345e7aa2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710912945006
+status: 3
+tags: []
+user_id: csg20
