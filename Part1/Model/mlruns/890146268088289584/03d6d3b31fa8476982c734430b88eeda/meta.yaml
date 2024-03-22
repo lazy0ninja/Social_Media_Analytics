@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/csg20/OneDrive/Desktop/Social_Media_Analytics/Part1/mlruns/890146268088289584/03d6d3b31fa8476982c734430b88eeda/artifacts
+end_time: 1711064187847
+entry_point_name: ''
+experiment_id: '890146268088289584'
+lifecycle_stage: active
+run_id: 03d6d3b31fa8476982c734430b88eeda
+run_name: CatBoost Classifier
+run_uuid: 03d6d3b31fa8476982c734430b88eeda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711064187752
+status: 3
+tags: []
+user_id: csg20

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/csg20/OneDrive/Desktop/Social_Media_Analytics/Part1/mlruns/890146268088289584/8c28ad53b79f44f0bad637520298119f/artifacts
+end_time: 1711063894887
+entry_point_name: ''
+experiment_id: '890146268088289584'
+lifecycle_stage: active
+run_id: 8c28ad53b79f44f0bad637520298119f
+run_name: Linear Discriminant Analysis
+run_uuid: 8c28ad53b79f44f0bad637520298119f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711063894775
+status: 3
+tags: []
+user_id: csg20

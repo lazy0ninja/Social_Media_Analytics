@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/csg20/OneDrive/Desktop/Social_Media_Analytics/Part1/mlruns/890146268088289584/c9aeb244c5d9480ab97434bbd7a4029e/artifacts
+end_time: 1711063896237
+entry_point_name: ''
+experiment_id: '890146268088289584'
+lifecycle_stage: active
+run_id: c9aeb244c5d9480ab97434bbd7a4029e
+run_name: Naive Bayes
+run_uuid: c9aeb244c5d9480ab97434bbd7a4029e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711063896127
+status: 3
+tags: []
+user_id: csg20

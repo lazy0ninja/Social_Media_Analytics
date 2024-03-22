@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/csg20/OneDrive/Desktop/Social_Media_Analytics/Part1/mlruns/890146268088289584/d3a05ced93a94926a5171e16a09e3320/artifacts
+end_time: 1711064189241
+entry_point_name: ''
+experiment_id: '890146268088289584'
+lifecycle_stage: active
+run_id: d3a05ced93a94926a5171e16a09e3320
+run_name: Ridge Classifier
+run_uuid: d3a05ced93a94926a5171e16a09e3320
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711064189125
+status: 3
+tags: []
+user_id: csg20

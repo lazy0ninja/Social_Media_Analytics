@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/csg20/OneDrive/Desktop/Social_Media_Analytics/Part1/mlruns/890146268088289584/68a257a2f8694ecf8363e5d5d790838a/artifacts
+end_time: 1711064189699
+entry_point_name: ''
+experiment_id: '890146268088289584'
+lifecycle_stage: active
+run_id: 68a257a2f8694ecf8363e5d5d790838a
+run_name: K Neighbors Classifier
+run_uuid: 68a257a2f8694ecf8363e5d5d790838a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711064189571
+status: 3
+tags: []
+user_id: csg20

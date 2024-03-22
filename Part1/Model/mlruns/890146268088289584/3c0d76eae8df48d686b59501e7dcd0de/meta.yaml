@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/csg20/OneDrive/Desktop/Social_Media_Analytics/Part1/mlruns/890146268088289584/3c0d76eae8df48d686b59501e7dcd0de/artifacts
+end_time: 1711064188307
+entry_point_name: ''
+experiment_id: '890146268088289584'
+lifecycle_stage: active
+run_id: 3c0d76eae8df48d686b59501e7dcd0de
+run_name: Random Forest Classifier
+run_uuid: 3c0d76eae8df48d686b59501e7dcd0de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711064188183
+status: 3
+tags: []
+user_id: csg20

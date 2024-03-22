@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/csg20/OneDrive/Desktop/Social_Media_Analytics/Part1/mlruns/890146268088289584/e9c51e2dd6e545d5b5ae2b293992d07b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '890146268088289584'
+lifecycle_stage: active
+run_id: e9c51e2dd6e545d5b5ae2b293992d07b
+run_name: Session Initialized 6a0d
+run_uuid: e9c51e2dd6e545d5b5ae2b293992d07b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711064268462
+status: 1
+tags: []
+user_id: csg20

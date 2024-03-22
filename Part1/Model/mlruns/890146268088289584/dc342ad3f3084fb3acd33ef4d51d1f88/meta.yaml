@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/csg20/OneDrive/Desktop/Social_Media_Analytics/Part1/mlruns/890146268088289584/dc342ad3f3084fb3acd33ef4d51d1f88/artifacts
+end_time: 1711063895394
+entry_point_name: ''
+experiment_id: '890146268088289584'
+lifecycle_stage: active
+run_id: dc342ad3f3084fb3acd33ef4d51d1f88
+run_name: Decision Tree Classifier
+run_uuid: dc342ad3f3084fb3acd33ef4d51d1f88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711063895272
+status: 3
+tags: []
+user_id: csg20

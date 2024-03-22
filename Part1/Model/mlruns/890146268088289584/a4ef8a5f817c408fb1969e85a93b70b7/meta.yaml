@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/csg20/OneDrive/Desktop/Social_Media_Analytics/Part1/mlruns/890146268088289584/a4ef8a5f817c408fb1969e85a93b70b7/artifacts
+end_time: 1711065207501
+entry_point_name: ''
+experiment_id: '890146268088289584'
+lifecycle_stage: active
+run_id: a4ef8a5f817c408fb1969e85a93b70b7
+run_name: Quadratic Discriminant Analysis
+run_uuid: a4ef8a5f817c408fb1969e85a93b70b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711065207394
+status: 3
+tags: []
+user_id: csg20

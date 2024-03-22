@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/csg20/OneDrive/Desktop/Social_Media_Analytics/Part1/mlruns/890146268088289584/40c0dce9d8884e4bbea373d6c8a3cf62/artifacts
+end_time: 1711064383782
+entry_point_name: ''
+experiment_id: '890146268088289584'
+lifecycle_stage: active
+run_id: 40c0dce9d8884e4bbea373d6c8a3cf62
+run_name: Light Gradient Boosting Machine
+run_uuid: 40c0dce9d8884e4bbea373d6c8a3cf62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711064383428
+status: 3
+tags: []
+user_id: csg20

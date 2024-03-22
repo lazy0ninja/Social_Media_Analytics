@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/csg20/OneDrive/Desktop/Social_Media_Analytics/Part1/mlruns/890146268088289584/5c9cc4edb78b4ab1ae37532cfc3746b8/artifacts
+end_time: 1711063895622
+entry_point_name: ''
+experiment_id: '890146268088289584'
+lifecycle_stage: active
+run_id: 5c9cc4edb78b4ab1ae37532cfc3746b8
+run_name: SVM - Linear Kernel
+run_uuid: 5c9cc4edb78b4ab1ae37532cfc3746b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711063895508
+status: 3
+tags: []
+user_id: csg20
